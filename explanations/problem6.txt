@@ -1,1 +1,0 @@
-What I learnt from here is that if I pass an array to a method as an arg lets say arr, C automatically decays it to &arr[0], basically address of the first element of the array. So in my method I'm just passing the first el address and by using pointer arithmetic and increment of some local int, I get the length of the array.

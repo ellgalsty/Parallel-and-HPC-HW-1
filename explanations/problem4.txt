@@ -1,1 +1,0 @@
-Simply created the two pointers, one normal pointer, the other double pointer. And accessed the variable value through both of them using * and. **;

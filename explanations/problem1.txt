@@ -1,1 +1,0 @@
-This one is pretty simple. I declared an int, gave it a value and printed its address, which I assigned to xPointer variable. Then I changed the value of x via its pointer, but obviously the address remained the same.

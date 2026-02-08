@@ -1,1 +1,0 @@
-Just swapped the two vars, by using a third one to store the value of one of the varsity, as it will change in the process. Then I printed do i posle)
