@@ -1,0 +1,1 @@
+I initialised an array of string, basically an array of *chars and printed their values before and after modifying one word. In fact I'm not modifying, I'm just making the array element 0 point on another string value, cause strings are immutable.

@@ -1,0 +1,1 @@
+Firstly let's allocate 4 bytes for an integer and then assign a value to the address, that I allocated. Then I can do the same for an array, by just allocating memory for 5 times 4 bytes (array size times integer size). Then I assign values to each element as well using the pointer and for loop.
